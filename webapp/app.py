@@ -179,7 +179,30 @@ async def start_predict(req: PredictRequest):
     sym_info = resolve_symbol(raw_ticker)
     ticker = sym_info["canonical_symbol"]
 
-    # Always launch fresh real-time pipeline on user search
+    # 1. If results are already cached and not force_retrain, return immediately
+    if is_cached(ticker) and not req.force_retrain:
+        cached_data = load_cached_results(ticker)
+        job_id = str(uuid.uuid4())
+        JOBS[job_id] = {
+            "status":   "complete",
+            "progress": 100,
+            "stage":    "Complete!",
+            "cached":   True,
+            "ticker":   ticker,
+            "query_ticker": sym_info["query_ticker"],
+            "sym_info": cached_data.get("sym_info", sym_info),
+            "metrics":  cached_data.get("metrics"),
+            "plots":    cached_data.get("plots"),
+            "forecast": cached_data.get("forecast"),
+        }
+        return {"job_id": job_id, "cached": True}
+
+    # 2. If a prediction is already running for this ticker, attach to it
+    for jid, existing_job in JOBS.items():
+        if existing_job.get("ticker") == ticker and existing_job.get("status") == "running":
+            return {"job_id": jid, "cached": False}
+
+    # 3. Launch fresh real-time pipeline
     job_id = str(uuid.uuid4())
     JOBS[job_id] = {
         "status":   "running",

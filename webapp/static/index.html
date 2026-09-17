@@ -880,6 +880,11 @@ async function startPrediction(forceRetrain=false){
     setTimeout(()=>$('ticker-input').style.border='',1500);
     return;
   }
+  if(pollTimer){
+    clearInterval(pollTimer);
+    pollTimer = null;
+  }
+
   currentTicker = ticker;
   $('search-btn').disabled=true;
   $('search-btn').textContent='Analyzing...';
@@ -901,7 +906,7 @@ async function startPrediction(forceRetrain=false){
     currentJobId = data.job_id;
     if(data.cached){
       // Immediate results from cache
-      pollTimer=setInterval(pollStatus,500);
+      pollStatus();
     } else {
       pollTimer = setInterval(pollStatus, 2000);
     }
