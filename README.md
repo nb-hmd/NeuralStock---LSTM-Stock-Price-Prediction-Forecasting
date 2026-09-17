@@ -87,29 +87,29 @@ Each agent is decoupled, strictly enforces typing contracts, operates within per
 
 ```
 User Browser                  FastAPI Agent             Orchestrator Agent           Intake / Compute Agents
-     │                              │                            │                               │
-     │── 1. POST /api/predict ─────>│                            │                               │
-     │   {ticker: "MEBL"}           │── 2. Spawn Thread ────────>│                               │
-     │<── 3. Return {job_id} ───────│                            │── 4. Resolve Symbol ─────────>│ (Shariah Agent)
-     │                              │                            │<── 5. Return SymInfo ─────────│ (MEBL.KA, PKR)
-     │                              │                            │                               │
-     │── 6. GET /api/status/{id} ──>│                            │── 7. Fetch Live Market Data ─>│ (Data Acquisition)
-     │<── 7. Progress: 15% ─────────│                            │<── 8. 2,249 Days (to 2026) ──│
-     │                              │                            │                               │
-     │                              │                            │── 9. Compute Indicators ─────>│ (Feature Engineering)
+     │                              │                            │                                │
+     │── 1. POST /api/predict ─────>│                            │                                │
+     │   {ticker: "MEBL"}           │── 2. Spawn Thread ────────>│                                │
+     │<── 3. Return {job_id} ───────│                            │── 4. Resolve Symbol ─────────> │ (Shariah Agent)
+     │                              │                            │<── 5. Return SymInfo ──────────│ (MEBL.KA, PKR)
+     │                              │                            │                                │
+     │── 6. GET /api/status/{id} ──>│                            │── 7. Fetch Live Market Data ──>│ (Data Acquisition)
+     │<── 7. Progress: 15% ─────────│                            │<── 8. 2,249 Days (to 2026) ────│
+     │                              │                            │                                │
+     │                              │                            │── 9. Compute Indicators ─────> │ (Feature Engineering)
      │                              │                            │── 10. Split & Scale (No Leak)─>│ (Preprocessing)
-     │                              │                            │── 11. Train Stacked LSTM ────>│ (Training Agent)
-     │                              │                            │    (EarlyStop best weights)   │
-     │── 12. GET /api/status/{id} ─>│                            │                               │
+     │                              │                            │── 11. Train Stacked LSTM ────> │ (Training Agent)
+     │                              │                            │    (EarlyStop best weights)    │
+     │── 12. GET /api/status/{id} ─>│                            │                                │
      │<── 13. Progress: 65% ────────│                            │── 14. Evaluate Real Metrics ──>│ (Evaluation Agent)
      │                              │                            │── 15. Recursive 30d Forecast ─>│ (Forecaster Agent)
      │                              │                            │── 16. Render 7 PNG Charts ────>│ (Visualization Agent)
-     │                              │                            │                               │
-     │── 17. GET /api/status/{id} ─>│                            │── 18. Release Mutex Lock ─────│
-     │<── 19. Status: "complete" ───│<── 20. Update JOBS[id] ────│                               │
-     │    (Metrics, Plots, Forecast)│                            │                               │
-     │                              │                            │                               │
-     │── 21. Render UI Dashboard ──>│                            │                               │
+     │                              │                            │                                │
+     │── 17. GET /api/status/{id} ─>│                            │── 18. Release Mutex Lock ──────│
+     │<── 19. Status: "complete" ───│<── 20. Update JOBS[id] ────│                                │
+     │    (Metrics, Plots, Forecast)│                            │                                │
+     │                              │                            │                                │
+     │── 21. Render UI Dashboard ──>│                            │                                │
 ```
 
 ---
