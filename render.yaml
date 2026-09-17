@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: neuralstock
+    runtime: python
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn webapp.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: TF_CPP_MIN_LOG_LEVEL
+        value: "3"
+      - key: PYTHONUTF8
+        value: "1"
