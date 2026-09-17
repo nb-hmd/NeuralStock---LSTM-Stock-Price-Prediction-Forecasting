@@ -333,7 +333,7 @@ $$
 $$
 
 $$
-\text{CI}_{95\%} = \pm 1.96 \times \sigma_{\text{resid}}
+\text{CI}_{0.95} = \pm 1.96 \times \sigma_{\text{resid}}
 $$
 
 Plot 7 explicitly labels the band: `±$X.XX  95% CI (test residuals, 1.96σ)` or `±Rs. X.XX  95% CI (test residuals, 1.96σ)`.
