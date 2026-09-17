@@ -271,41 +271,40 @@ OUTPUT Layer: 1 Unit, Activation = Linear (Predicted Close Price)
 
 All metrics in [`src/evaluate.py`](src/evaluate.py) are computed **after inverse-transforming predictions back to the original price currency (Rupees or Dollars)**:
 
-1. **RMSE (Root Mean Squared Error)**:
+**1. RMSE (Root Mean Squared Error)**:  
+Measures the average deviation between actual and predicted prices. Heavily penalizes large forecasting misses.
 
-   $$
-   \text{RMSE} = \sqrt{\frac{1}{N}\sum_{t=1}^{N}(y_t - \hat{y}_t)^2}
-   $$
+$$
+\text{RMSE} = \sqrt{\frac{1}{N}\sum_{t=1}^{N}(y_t - \hat{y}_t)^2}
+$$
 
-   Measures the average deviation between actual and predicted prices. Heavily penalizes large forecasting misses.
-2. **MAE (Mean Absolute Error)**:
+**2. MAE (Mean Absolute Error)**:  
+Represents the expected absolute error on any given day in real currency terms.
 
-   $$
-   \text{MAE} = \frac{1}{N}\sum_{t=1}^{N}|y_t - \hat{y}_t|
-   $$
+$$
+\text{MAE} = \frac{1}{N}\sum_{t=1}^{N}|y_t - \hat{y}_t|
+$$
 
-   Represents the expected absolute error on any given day in real currency terms.
-3. **MAPE (Mean Absolute Percentage Error)**:
+**3. MAPE (Mean Absolute Percentage Error)**:  
+Expresses error as an intuitive percentage of the true stock price.
 
-   $$
-   \text{MAPE} = \frac{1}{N}\sum_{t=1}^{N}\left|\frac{y_t - \hat{y}_t}{y_t}\right| \times 100\%
-   $$
+$$
+\text{MAPE} = \frac{1}{N}\sum_{t=1}^{N}\left|\frac{y_t - \hat{y}_t}{y_t}\right| \times 100
+$$
 
-   Expresses error as an intuitive percentage of the true stock price.
-4. **$R^2$ Score (Coefficient of Determination)**:
+**4. $R^2$ Score (Coefficient of Determination)**:  
+Quantifies the proportion of price variance captured by the model compared to a naive mean baseline.
 
-   $$
-   R^2 = 1 - \frac{\sum(y_t - \hat{y}_t)^2}{\sum(y_t - \bar{y})^2}
-   $$
+$$
+R^2 = 1 - \frac{\sum_{t=1}^{N}(y_t - \hat{y}_t)^2}{\sum_{t=1}^{N}(y_t - \bar{y})^2}
+$$
 
-   Quantifies the proportion of price variance captured by the model compared to a naive mean baseline.
-5. **Directional Accuracy (%)**:
+**5. Directional Accuracy (%)**:  
+The percentage of trading days on which the model correctly predicted whether the stock would close up or down.
 
-   $$
-   \text{DA} = \frac{1}{N-1}\sum_{t=2}^{N} \mathbb{I}\left[\text{sign}(y_t - y_{t-1}) == \text{sign}(\hat{y}_t - y_{t-1})\right] \times 100\%
-   $$
-
-   The percentage of trading days on which the model correctly predicted whether the stock would close up or down.
+$$
+\text{DA} = \frac{1}{N-1}\sum_{t=2}^{N} \mathbb{I}\left[\text{sign}(y_t - y_{t-1}) = \text{sign}(\hat{y}_t - y_{t-1})\right] \times 100
+$$
 
 ---
 
