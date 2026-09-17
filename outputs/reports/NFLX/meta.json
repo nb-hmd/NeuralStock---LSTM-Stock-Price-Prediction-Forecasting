@@ -1,0 +1,16 @@
+{
+  "raw_input": "NFLX",
+  "canonical_symbol": "NFLX",
+  "query_ticker": "NFLX",
+  "storage_dir": "NFLX",
+  "is_psx": false,
+  "is_shariah": false,
+  "exchange": "US / International",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "company_name": "NFLX",
+  "sector": "International Equity",
+  "date_range": "2018-01-02 to 2026-09-11",
+  "latest_price": 77.4,
+  "trading_days": 2185
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "NVDA",
+  "split": "test",
+  "n_samples": 371,
+  "RMSE": 41.4148,
+  "MAE": 37.4909,
+  "MAPE": 19.8319,
+  "R2": -0.7793,
+  "DA": 51.62,
+  "residual_stats": {
+    "mean": 36.998458,
+    "std": 18.609217,
+    "ci_width": 36.474065,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -15.427376,
+    "max_residual": 81.75264,
+    "median_residual": 36.528732
+  }
+}

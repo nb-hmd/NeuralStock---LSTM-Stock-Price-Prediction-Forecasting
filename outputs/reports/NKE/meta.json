@@ -1,0 +1,16 @@
+{
+  "raw_input": "NKE",
+  "canonical_symbol": "NKE",
+  "query_ticker": "NKE",
+  "storage_dir": "NKE",
+  "is_psx": false,
+  "is_shariah": false,
+  "exchange": "US / International",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "company_name": "NKE",
+  "sector": "International Equity",
+  "date_range": "2018-01-02 to 2026-09-04",
+  "latest_price": 38.4,
+  "trading_days": 2181
+}

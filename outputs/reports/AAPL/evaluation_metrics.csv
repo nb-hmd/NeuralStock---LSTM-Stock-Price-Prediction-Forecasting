@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+AAPL,test,370,31.1537,25.6107,9.2741,0.3558,49.32,24.98116,18.614423,36.484268,0.95,1.96,-29.639877,75.999725,22.90419

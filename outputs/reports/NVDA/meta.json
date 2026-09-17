@@ -1,0 +1,16 @@
+{
+  "raw_input": "NVDA",
+  "canonical_symbol": "NVDA",
+  "query_ticker": "NVDA",
+  "storage_dir": "NVDA",
+  "is_psx": false,
+  "is_shariah": false,
+  "exchange": "US / International",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "company_name": "NVDA",
+  "sector": "International Equity",
+  "date_range": "2018-01-02 to 2026-09-10",
+  "latest_price": 218.36,
+  "trading_days": 2184
+}

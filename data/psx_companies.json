@@ -1,0 +1,1826 @@
+{
+  "AABS": {
+    "name": "Al-Abbas Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "AAL": {
+    "name": "Agro Allianz Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "AASM": {
+    "name": "Al-Abid Silk Mills Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "AATM": {
+    "name": "Ali Asghar Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ABOT": {
+    "name": "Abbott Laboratories (Pakistan) Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "ABSON": {
+    "name": "Abson Industries Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "ACPL": {
+    "name": "Attock Cement Pakistan Limited",
+    "sector": "CEMENT"
+  },
+  "ADAMS": {
+    "name": "Adam Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "ADMM": {
+    "name": "Artistic Denim Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "AGHA": {
+    "name": "Agha Steel Ind.Ltd",
+    "sector": "ENGINEERING"
+  },
+  "AGIL": {
+    "name": "Agriauto Industries Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "AGL": {
+    "name": "Agritech Limited",
+    "sector": "FERTILIZER"
+  },
+  "AGP": {
+    "name": "AGP Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "AGSML": {
+    "name": "Abdullah Shah Ghazi Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "AGTL": {
+    "name": "Al-Ghazi Tractors Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "AHCL": {
+    "name": "Arif Habib Corporation Limited",
+    "sector": "FERTILIZER"
+  },
+  "AHTM": {
+    "name": "Ahmad Hassan Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "AIRLINK": {
+    "name": "Air Link Communication Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "AKDHL": {
+    "name": "AKD Hospitality Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "AKGL": {
+    "name": "Al-Khair Gadoon Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "ALNRS": {
+    "name": "Al-Noor Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "ALTN": {
+    "name": "Altern Energy Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "AMTEX": {
+    "name": "Amtex Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ANL": {
+    "name": "Azgard Nine Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "ANNT": {
+    "name": "Annoor Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ANSM": {
+    "name": "Ansari Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "ANTM": {
+    "name": "AN Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "APL": {
+    "name": "Attock Petroleum Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "APOT": {
+    "name": "Apollo Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ARCTM": {
+    "name": "Arctic Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ARMG": {
+    "name": "ARM Green Industries Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "ARPL": {
+    "name": "Archroma Pakistan Limited",
+    "sector": "CHEMICAL"
+  },
+  "ARUJ": {
+    "name": "Aruj Industries Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "ASC": {
+    "name": "Al Shaheer Corporation Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "ASHT": {
+    "name": "Ashfaq Textile Mills Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "ASL": {
+    "name": "Aisha Steel Mills Limited",
+    "sector": "ENGINEERING"
+  },
+  "ASTL": {
+    "name": "Amreli Steels Limited",
+    "sector": "ENGINEERING"
+  },
+  "ASTM": {
+    "name": "Asim Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ATBA": {
+    "name": "Atlas Battery Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "ATLH": {
+    "name": "Atlas Honda Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "ATRL": {
+    "name": "Attock Refinery Limited",
+    "sector": "REFINERY"
+  },
+  "AVN": {
+    "name": "Avanceon Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "AWTX": {
+    "name": "Allawasaya Tex. & Finishing Mills Ltd",
+    "sector": "TEXTILE SPINNING"
+  },
+  "AZMT": {
+    "name": "Azmat Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "BAFS": {
+    "name": "Baba Farid Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "BAPL": {
+    "name": "Bawany Air Products Limited",
+    "sector": "CHEMICAL"
+  },
+  "BATA": {
+    "name": "Bata Pakistan Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "BBFL": {
+    "name": "Big Bird Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "BCL": {
+    "name": "Bolan Castings Limited",
+    "sector": "ENGINEERING"
+  },
+  "BECO": {
+    "name": "Beco Steel Limited",
+    "sector": "ENGINEERING"
+  },
+  "BELA": {
+    "name": "Bela Automotives Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "BERG": {
+    "name": "Berger Paints Pakistan Limited",
+    "sector": "CHEMICAL"
+  },
+  "BFAGRO": {
+    "name": "Barkat Frisian Agro Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "BFBIO": {
+    "name": "BF Biosciences Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "BFMOD": {
+    "name": "B.F. Modaraba",
+    "sector": "MODARABAS"
+  },
+  "BGL": {
+    "name": "Baluchistan Glass Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "BHAT": {
+    "name": "Bhanero Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "BIFO": {
+    "name": "Biafo Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "BIPL": {
+    "name": "BankIslami Pakistan Limited",
+    "sector": "COMMERCIAL BANKS"
+  },
+  "BLUEX": {
+    "name": "Blue-Ex Limited",
+    "sector": "TRANSPORT"
+  },
+  "BNL": {
+    "name": "Bunnys Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "BNWM": {
+    "name": "Bannu Woollen Mills Limited",
+    "sector": "WOOLLEN"
+  },
+  "BPL": {
+    "name": "Burshane LPG (Pakistan) Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "BRRG": {
+    "name": "B.R.R Guardian Limited",
+    "sector": "PROPERTY"
+  },
+  "BTL": {
+    "name": "Blessed Textiles Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "BUXL": {
+    "name": "Buxly Paints Limited",
+    "sector": "CHEMICAL"
+  },
+  "BWCL": {
+    "name": "Bestway Cement Limited",
+    "sector": "CEMENT"
+  },
+  "BWHL": {
+    "name": "Baluchistan Wheels Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "CCM": {
+    "name": "Crescent Cotton Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "CEPB": {
+    "name": "Century Paper & Board Mills Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "CFL": {
+    "name": "Crescent Fibres Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "CHAS": {
+    "name": "Chashma Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "CHBL": {
+    "name": "Chenab Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "CHCC": {
+    "name": "Cherat Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "CJPL": {
+    "name": "Crescent Jute Products Limited",
+    "sector": "JUTE"
+  },
+  "CLOV": {
+    "name": "Clover Pakistan Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "CLVL": {
+    "name": "Cordoba Logistics & Ventures Limited",
+    "sector": "TRANSPORT"
+  },
+  "CNERGY": {
+    "name": "Cnergyico PK  Limited",
+    "sector": "REFINERY"
+  },
+  "COLG": {
+    "name": "Colgate-Palmolive (Pakistan) Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "CPHL": {
+    "name": "Citi Pharma Ltd.",
+    "sector": "PHARMACEUTICALS"
+  },
+  "CPPL": {
+    "name": "Cherat Packaging Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "CRTM": {
+    "name": "The Crescent Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "CSAP": {
+    "name": "Crescent Steel & Allied Products Limited",
+    "sector": "ENGINEERING"
+  },
+  "CTM": {
+    "name": "Colony Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DAAG": {
+    "name": "Data Agro Limited",
+    "sector": "CHEMICAL"
+  },
+  "DADX": {
+    "name": "Dadex Eternit Limited",
+    "sector": "ENGINEERING"
+  },
+  "DBCI": {
+    "name": "Dadabhoy Cement Industries Limited",
+    "sector": "CEMENT"
+  },
+  "DBSL": {
+    "name": "Dadabhoy Sack Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "DCL": {
+    "name": "Dewan Cement Limited",
+    "sector": "CEMENT"
+  },
+  "DCR": {
+    "name": "Dolmen City REIT",
+    "sector": "REAL ESTATE INVESTMENT TRUST"
+  },
+  "DCTL": {
+    "name": "Dadabhoy Construction Technology Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "DFML": {
+    "name": "Dewan Farooque Motors Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "DFSM": {
+    "name": "Dewan Farooque Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DGKC": {
+    "name": "D.G. Khan Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "DIIL": {
+    "name": "Diamond Industries Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "DINT": {
+    "name": "Din Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DKTM": {
+    "name": "Dewan Khalid Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DLL": {
+    "name": "Dawood Lawrencepur Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "DMC": {
+    "name": "D.M. Corporation Limited.",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DMTM": {
+    "name": "Dewan Mushtaq Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DNCC": {
+    "name": "Dandot Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "DOL": {
+    "name": "Descon Oxychem Limited",
+    "sector": "CHEMICAL"
+  },
+  "DSFL": {
+    "name": "Dewan Salman Fibre Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "DSIL": {
+    "name": "D.S. Industries Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DSL": {
+    "name": "Dost Steels Limited",
+    "sector": "ENGINEERING"
+  },
+  "DWAE": {
+    "name": "Dewan Automotive Engineering Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "DWSM": {
+    "name": "Dewan Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "DWTM": {
+    "name": "Dewan Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "DYNO": {
+    "name": "Dynea Pakistan Limited",
+    "sector": "CHEMICAL"
+  },
+  "ECOP": {
+    "name": "Ecopack Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "EFERT": {
+    "name": "Engro Fertilizers Limited",
+    "sector": "FERTILIZER"
+  },
+  "ELCM": {
+    "name": "Elahi Cotton Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ELSM": {
+    "name": "Ellcot Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "EMCO": {
+    "name": "Emco Industries Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "ENGROH": {
+    "name": "Engro Holdings Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "EPCL": {
+    "name": "Engro Polymer & Chemicals Limited",
+    "sector": "CHEMICAL"
+  },
+  "EPQL": {
+    "name": "Engro Powergen Qadirpur Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "EXIDE": {
+    "name": "Exide Pakistan Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "FABL": {
+    "name": "Faysal Bank Limited",
+    "sector": "COMMERCIAL BANKS"
+  },
+  "FAEL": {
+    "name": "Fatima Enterprises Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "FANM": {
+    "name": "First Al-Noor Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FASM": {
+    "name": "Faisal Spinning Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "FATIMA": {
+    "name": "Fatima Fertilizer Company Limited",
+    "sector": "FERTILIZER"
+  },
+  "FCCL": {
+    "name": "Fauji Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "FCEL": {
+    "name": "First Capital Equities Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "FCEPL": {
+    "name": "Frieslandcampina Engro Pakistan Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "FCL": {
+    "name": "Fast Cables Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "FCONM": {
+    "name": "First Constellation Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FDPL": {
+    "name": "First Dawood Properties Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "FECM": {
+    "name": "First Elite Capital Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FECTC": {
+    "name": "Fecto Cement Limited",
+    "sector": "CEMENT"
+  },
+  "FEM": {
+    "name": "First Equity Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FEROZ": {
+    "name": "Ferozsons Laboratories Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "FFC": {
+    "name": "Fauji Fertilizer Company Limited",
+    "sector": "FERTILIZER"
+  },
+  "FFL": {
+    "name": "Fauji Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "FFLM": {
+    "name": "First Fidelity Leasing Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FHAM": {
+    "name": "First Habib Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FIBLM": {
+    "name": "First IBL Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FIL": {
+    "name": "Fateh Industries Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "FIM": {
+    "name": "First Investec Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FIMM": {
+    "name": "First Imrooz Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FLYNG": {
+    "name": "Flying Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "FML": {
+    "name": "Feroze1888 Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "FNBM": {
+    "name": "First National Bank Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FPJM": {
+    "name": "First Punjab Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FPRM": {
+    "name": "First Paramount Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FRCL": {
+    "name": "Frontier Ceramics Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "FRSM": {
+    "name": "Faran Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "FSWL": {
+    "name": "Fateh Sports Wear Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "FTHM": {
+    "name": "Fateh Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "FTMM": {
+    "name": "First Treet Manufacturing Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FTSM": {
+    "name": "First Tri-Star Modaraba",
+    "sector": "MODARABAS"
+  },
+  "FZCM": {
+    "name": "Fazal Cloth Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "GADT": {
+    "name": "Gadoon Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "GAL": {
+    "name": "Ghandhara Automobiles Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "GAMON": {
+    "name": "Gammon Pakistan Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "GATI": {
+    "name": "Gatron (Industries) Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "GATM": {
+    "name": "Gul Ahmed Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "GCIL": {
+    "name": "Ghani Chemical Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "GCWL": {
+    "name": "Ghani Chemworld Limited",
+    "sector": "CHEMICAL"
+  },
+  "GDL": {
+    "name": "Ghani Dairies Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "GEMBCEM": {
+    "name": "Burj Clean Energy Modaraba(GEM)",
+    "sector": "MODARABAS"
+  },
+  "GEMBLUEX": {
+    "name": "Blue-Ex Limited (GEM)",
+    "sector": "TRANSPORT"
+  },
+  "GEMMEL": {
+    "name": "Mughal Energy Limited(GEM)",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "GEMNETS": {
+    "name": "Nets International Communication Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "GEMPACRA": {
+    "name": "The Pakistan Credit Rating Agency Ltd",
+    "sector": "MISCELLANEOUS"
+  },
+  "GEMPAPL": {
+    "name": "Pak Agro Packaging Limited(GEM)",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "GFIL": {
+    "name": "Ghazi Fabrics International Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "GGGL": {
+    "name": "Ghani Global Glass Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "GGL": {
+    "name": "Ghani Global Holdings Limited",
+    "sector": "CHEMICAL"
+  },
+  "GHGL": {
+    "name": "Ghani Glass Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "GHNI": {
+    "name": "Ghandhara Industries Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "GIL": {
+    "name": "Good Luck Industries Ltd.",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "GLAXO": {
+    "name": "GlaxoSmithKline Pakistan Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "GLOT": {
+    "name": "Globe Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "GOC": {
+    "name": "GOC (Pak) Limited.",
+    "sector": "MISCELLANEOUS"
+  },
+  "GSPM": {
+    "name": "Gulshan Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "GTYR": {
+    "name": "Ghandhara Tyre & Rubber Company Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "GUSM": {
+    "name": "Gulistan Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "GUTM": {
+    "name": "Gulistan Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "GVGL": {
+    "name": "Ghani Value Glass Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "GWLC": {
+    "name": "Gharibwal Cement Limited",
+    "sector": "CEMENT"
+  },
+  "HABSM": {
+    "name": "Habib Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "HADC": {
+    "name": "Haydari Construction Company Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "HAEL": {
+    "name": "Hala Enterprises Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "HAFL": {
+    "name": "Hafiz Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "HAJT": {
+    "name": "Hajra Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "HALEON": {
+    "name": "Haleon Pakistan Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "HASCOL": {
+    "name": "Hascol Petroleum Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "HATM": {
+    "name": "Hamid Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "HCAR": {
+    "name": "Honda Atlas Cars (Pakistan) Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "HINO": {
+    "name": "Hinopak Motors Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "HINOON": {
+    "name": "Highnoon Laboratories Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "HIRAT": {
+    "name": "Hira Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "HKKT": {
+    "name": "Hakkim Textile Mills Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "HMIM": {
+    "name": "Haji Mohammad Ismail Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "HPL": {
+    "name": "Hoechst Pakistan Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "HRPL": {
+    "name": "Habib Rice Product Limited.",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "HSPI": {
+    "name": "Huffaz Seamless Pipe Industries Limited",
+    "sector": "ENGINEERING"
+  },
+  "HTL": {
+    "name": "Hi-Tech Lubricants Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "HUBC": {
+    "name": "The Hub Power Company Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "HUSI": {
+    "name": "Husein Industries Limited",
+    "sector": "PROPERTY"
+  },
+  "HWQS": {
+    "name": "Haseeb Waqas Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "IBFL": {
+    "name": "Ibrahim Fibres Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "IBLHL": {
+    "name": "IBL HealthCare Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "ICCI": {
+    "name": "ICC Industries Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "ICL": {
+    "name": "Ittehad Chemicals Limted",
+    "sector": "CHEMICAL"
+  },
+  "IDRT": {
+    "name": "Idrees Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "IDSM": {
+    "name": "Ideal Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "IDYM": {
+    "name": "Indus Dyeing & Manufacturing Co. Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "ILP": {
+    "name": "Interloop Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "IMAGE": {
+    "name": "Image Pakistan Limited",
+    "sector": "APPAREL"
+  },
+  "INDU": {
+    "name": "Indus Motor Company Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "INIL": {
+    "name": "International Industries Limited",
+    "sector": "ENGINEERING"
+  },
+  "INKL": {
+    "name": "International Knitwear Limited",
+    "sector": "APPAREL"
+  },
+  "IPAK": {
+    "name": "International Packaging Films Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "IREIT": {
+    "name": "Image Reit",
+    "sector": "REAL ESTATE INVESTMENT TRUST"
+  },
+  "ISIL": {
+    "name": "Ismail Industries Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "ISL": {
+    "name": "International Steels Limited",
+    "sector": "ENGINEERING"
+  },
+  "ITANZ": {
+    "name": "Itanz Technologies Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "ITTEFAQ": {
+    "name": "Ittefaq Iron Industries Limited",
+    "sector": "ENGINEERING"
+  },
+  "JATM": {
+    "name": "J.A. Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "JDMT": {
+    "name": "Janana De Malucho Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "JDWS": {
+    "name": "JDW Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "JKSM": {
+    "name": "J.K. Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "JSML": {
+    "name": "Jauharabad Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "JUBS": {
+    "name": "Jubilee Spinning & Weaving Mills Ltd.",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "JVDC": {
+    "name": "Javedan Corporation Limited",
+    "sector": "PROPERTY"
+  },
+  "KAKL": {
+    "name": "Kaiser Arts & Krafts Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "KAPCO": {
+    "name": "Kot Addu Power Company Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "KCL": {
+    "name": "Karam Ceramics Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "KEL": {
+    "name": "K-Electric Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "KHYT": {
+    "name": "Khyber Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "KML": {
+    "name": "Kohinoor Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "KOHC": {
+    "name": "Kohat Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "KOHE": {
+    "name": "Kohinoor Energy Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "KOHP": {
+    "name": "Kohinoor Power Company Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "KOHTM": {
+    "name": "Kohat Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "KOIL": {
+    "name": "Kohinoor Industries Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "KOSM": {
+    "name": "Kohinoor Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "KPUS": {
+    "name": "Khairpur Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "KSBP": {
+    "name": "KSB Pumps Company Limited",
+    "sector": "ENGINEERING"
+  },
+  "KSTM": {
+    "name": "Khalid Siraj Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "KTML": {
+    "name": "Kohinoor Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "LCI": {
+    "name": "Lucky Core Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "LEUL": {
+    "name": "Leather Up Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "LIVEN": {
+    "name": "Liven Pharma Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "LOADS": {
+    "name": "Loads Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "LOTCHEM": {
+    "name": "Lotte Chemical Pakistan Limited",
+    "sector": "CHEMICAL"
+  },
+  "LPGL": {
+    "name": "Leiner Pak Gelatine Limited",
+    "sector": "CHEMICAL"
+  },
+  "LPL": {
+    "name": "Lalpir Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "LSECL": {
+    "name": "LSE Capital Limited.",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "LUCK": {
+    "name": "Lucky Cement Limited",
+    "sector": "CEMENT"
+  },
+  "MACFL": {
+    "name": "MACPAC Films Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "MACTER": {
+    "name": "Macter International Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "MARI": {
+    "name": "Mari Energies Limited",
+    "sector": "OIL & GAS EXPLORATION COMPANIES"
+  },
+  "MEBL": {
+    "name": "Meezan Bank Limited",
+    "sector": "COMMERCIAL BANKS"
+  },
+  "MEHT": {
+    "name": "Mehmood Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "MERIT": {
+    "name": "Merit Packaging Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "MFFL": {
+    "name": "Mitchells Fruit Farms Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "MFL": {
+    "name": "Matco Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "MFTM": {
+    "name": "Mohammad Farooq Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "MIIETF": {
+    "name": "Mahaana Islamic Index ETF",
+    "sector": "EXCHANGE TRADED FUNDS"
+  },
+  "MIRKS": {
+    "name": "Mirpurkhas Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "MLCF": {
+    "name": "Maple Leaf Cement Factory Limited",
+    "sector": "CEMENT"
+  },
+  "MOHE": {
+    "name": "Mohib Exports Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "MQTM": {
+    "name": "Maqbool Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "MRNS": {
+    "name": "Mehran Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "MSCL": {
+    "name": "Metropolitan Steel Corporation Limited",
+    "sector": "ENGINEERING"
+  },
+  "MSOT": {
+    "name": "Masood Textile Mills Limited",
+    "sector": "APPAREL"
+  },
+  "MTL": {
+    "name": "Millat Tractors Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "MUBT": {
+    "name": "Mubarak Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "MUGHAL": {
+    "name": "Mughal Iron & Steel Industries Limited",
+    "sector": "ENGINEERING"
+  },
+  "MWMP": {
+    "name": "Mandviwala Mauser Plastic Industries",
+    "sector": "MISCELLANEOUS"
+  },
+  "MZNPETF": {
+    "name": "Meezan Pakistan ETF",
+    "sector": "EXCHANGE TRADED FUNDS"
+  },
+  "NAFL": {
+    "name": "National Fibres Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "NAGC": {
+    "name": "Nagina Cotton Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "NATF": {
+    "name": "National Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "NATM": {
+    "name": "Nadeem Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "NCL": {
+    "name": "Nishat Chunian Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "NCML": {
+    "name": "Nazir Cotton Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "NCPL": {
+    "name": "Nishat Chunian Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "NESTLE": {
+    "name": "Nestle Pakistan Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "NETSOL": {
+    "name": "NetSol Technologies Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "NICL": {
+    "name": "Nimir Industrial Chemicals Limited",
+    "sector": "CHEMICAL"
+  },
+  "NINA": {
+    "name": "Nina Industries Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "NMFL": {
+    "name": "Nirala MSR Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "NML": {
+    "name": "Nishat Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "NONS": {
+    "name": "Noon Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "NPL": {
+    "name": "Nishat Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "NRL": {
+    "name": "National Refinery Limited",
+    "sector": "REFINERY"
+  },
+  "NRSL": {
+    "name": "Nimir Resins Limited",
+    "sector": "CHEMICAL"
+  },
+  "NSRM": {
+    "name": "The National Silk & Rayon Mills Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "OBOY": {
+    "name": "Oilboy Energy Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "OCTOPUS": {
+    "name": "Octopus Digital Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "OGDC": {
+    "name": "Oil & Gas Development Company Limited",
+    "sector": "OIL & GAS EXPLORATION COMPANIES"
+  },
+  "OLPM": {
+    "name": "OLP Modaraba",
+    "sector": "MODARABAS"
+  },
+  "OML": {
+    "name": "Olympia Mills Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "ORM": {
+    "name": "Orient Rental Mod",
+    "sector": "MODARABAS"
+  },
+  "OTSU": {
+    "name": "Otsuka Pakistan Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "PABC": {
+    "name": "Pakistan Aluminium Beverage Cans Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "PACE": {
+    "name": "Pace (Pakistan) Limited",
+    "sector": "PROPERTY"
+  },
+  "PAEL": {
+    "name": "Pak Elektron Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "PAKD": {
+    "name": "Pak Datacom Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "PAKL": {
+    "name": "Pak Leather Crafts Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "PAKOXY": {
+    "name": "Pakistan Oxygen Limited",
+    "sector": "CHEMICAL"
+  },
+  "PAKQATAR": {
+    "name": "Pak Qatar Family Takaful Limited",
+    "sector": "INSURANCE"
+  },
+  "PASL": {
+    "name": "Pervez Ahmed Consultancy Services Ltd.",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "PASM": {
+    "name": "Paramount Spinning Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "PCAL": {
+    "name": "Pakistan Cables Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "PECO": {
+    "name": "Pakistan Engineering Company Limited",
+    "sector": "ENGINEERING"
+  },
+  "PHDL": {
+    "name": "Pakistan Hotels Developers Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "PIAHCLA": {
+    "name": "PIA Holding Company Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "PIAHCLB": {
+    "name": "PIA Holding Company LimitedB",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "PIBTL": {
+    "name": "Pakistan International Bulk Terminal",
+    "sector": "TRANSPORT"
+  },
+  "PICT": {
+    "name": "Pakistan International Container",
+    "sector": "TRANSPORT"
+  },
+  "PIM": {
+    "name": "Popular Islamic Modaraba",
+    "sector": "MODARABAS"
+  },
+  "PIOC": {
+    "name": "Pioneer Cement Limited",
+    "sector": "CEMENT"
+  },
+  "PKGP": {
+    "name": "Pakgen Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "PKGS": {
+    "name": "Packages Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "PMRS": {
+    "name": "The Premier Sugar Mills",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "PNSC": {
+    "name": "Pakistan National Shipping Corporation",
+    "sector": "TRANSPORT"
+  },
+  "POL": {
+    "name": "Pakistan Oilfields Limited",
+    "sector": "OIL & GAS EXPLORATION COMPANIES"
+  },
+  "POML": {
+    "name": "Punjab Oil Mills Limited",
+    "sector": "VANASPATI & ALLIED INDUSTRIES"
+  },
+  "POWER": {
+    "name": "Power Cement Limited",
+    "sector": "CEMENT"
+  },
+  "PPL": {
+    "name": "Pakistan Petroleum Limited",
+    "sector": "OIL & GAS EXPLORATION COMPANIES"
+  },
+  "PPP": {
+    "name": "Pakistan Paper Products Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "PPVC": {
+    "name": "Pakistan PVC Limited",
+    "sector": "CHEMICAL"
+  },
+  "PQGTL": {
+    "name": "Pak Qatar General Takaful Limited",
+    "sector": "INSURANCE"
+  },
+  "PREMA": {
+    "name": "At-Tahur Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "PRET": {
+    "name": "Premium Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "PRL": {
+    "name": "Pakistan Refinery Limited",
+    "sector": "REFINERY"
+  },
+  "PRWM": {
+    "name": "Prosperity Weaving Mills Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "PSEL": {
+    "name": "Pakistan Services Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "PSO": {
+    "name": "Pakistan State Oil Company Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "PSX": {
+    "name": "Pakistan Stock Exchange Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "PSYL": {
+    "name": "Pakistan Synthetics Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "PTC": {
+    "name": "Pakistan Telecommunication Company Ltd",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "PTL": {
+    "name": "Panther Tyres Ltd.",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "QTECH": {
+    "name": "Quantum Data Technologies Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "QUET": {
+    "name": "Quetta Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "QUICE": {
+    "name": "Quice Food Industries Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "RCML": {
+    "name": "Reliance Cotton Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "REDCO": {
+    "name": "Redco Textiles Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "REGAL": {
+    "name": "Regal Ceramics Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "REWM": {
+    "name": "Reliance Weaving Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "RMPL": {
+    "name": "Rafhan Maize Products Company Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "RPL": {
+    "name": "Roshan Packages Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "RUBY": {
+    "name": "Ruby Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "RUPL": {
+    "name": "Rupali Polyester Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "SAIF": {
+    "name": "Saif Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SANE": {
+    "name": "Salman Noman Enterprises Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SANSM": {
+    "name": "Sanghar Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SAPT": {
+    "name": "Sapphire Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "SARC": {
+    "name": "Sardar Chemical Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "SASML": {
+    "name": "Sindh Abadgars Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SAZEW": {
+    "name": "Sazgar Engineering Works Limited",
+    "sector": "AUTOMOBILE ASSEMBLER"
+  },
+  "SCL": {
+    "name": "Shield Corporation Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "SDOT": {
+    "name": "Sadoon Textile Industries Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "SEARL": {
+    "name": "The Searle Company Limited",
+    "sector": "PHARMACEUTICALS"
+  },
+  "SEL": {
+    "name": "Sitara Energy Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "SEPL": {
+    "name": "Security Papers Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "SERT": {
+    "name": "Service Industries Textiles Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SFAT": {
+    "name": "Safa Textiles Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "SFL": {
+    "name": "Sapphire Fibres Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "SGABL": {
+    "name": "SG.Allied Businesses Limited",
+    "sector": "SYNTHETIC & RAYON"
+  },
+  "SGF": {
+    "name": "Service GlobalFootwear Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "SGPL": {
+    "name": "S.G. Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "SHCI": {
+    "name": "Shaffi Chemical Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "SHCM": {
+    "name": "Shadman Cotton Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SHDT": {
+    "name": "Shadab Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SHEZ": {
+    "name": "Shezan International Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "SHFA": {
+    "name": "Shifa International Hospitals Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "SHJS": {
+    "name": "Shahtaj Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SHSML": {
+    "name": "Shahmurad Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SIEM": {
+    "name": "Siemens (Pakistan) Engineering",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "SINDM": {
+    "name": "Sindh Modaraba",
+    "sector": "MODARABAS"
+  },
+  "SITC": {
+    "name": "Sitara Chemical Industries Limited",
+    "sector": "CHEMICAL"
+  },
+  "SKRS": {
+    "name": "Sakrand Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SLGL": {
+    "name": "Secure Logistics-Trax Group Limited",
+    "sector": "TRANSPORT"
+  },
+  "SLM": {
+    "name": "Service Long March Tyres Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "SLYT": {
+    "name": "Sally Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SMCPL": {
+    "name": "Safe Mix Concrete Limited",
+    "sector": "CEMENT"
+  },
+  "SML": {
+    "name": "Shakarganj Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "SNAI": {
+    "name": "Sana Industries Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SNGP": {
+    "name": "Sui Northern Gas Pipelines Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "SPAC1": {
+    "name": "LSE SPAC-I Limited",
+    "sector": "INV. BANKS / INV. COS. / SECURITIES COS."
+  },
+  "SPCL": {
+    "name": "Saudi Pak Consultancy Company Limited",
+    "sector": "LEASING COMPANIES"
+  },
+  "SPEL": {
+    "name": "SPEL Limited",
+    "sector": "PAPER, BOARD & PACKAGING"
+  },
+  "SPL": {
+    "name": "Sitara Peroxide Limited",
+    "sector": "CHEMICAL"
+  },
+  "SPSL": {
+    "name": "Sitara Petroleum Service Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "SPWL": {
+    "name": "Saif Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "SRR": {
+    "name": "Signature Residency Reit",
+    "sector": "REAL ESTATE INVESTMENT TRUST"
+  },
+  "SRVI": {
+    "name": "Service Industries Limited",
+    "sector": "LEATHER & TANNERIES"
+  },
+  "SSGC": {
+    "name": "Sui Southern Gas Company Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "SSML": {
+    "name": "Saritow Spinning Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SSOM": {
+    "name": "S.S.Oil Mills Limited",
+    "sector": "VANASPATI & ALLIED INDUSTRIES"
+  },
+  "STCL": {
+    "name": "Shabbir Tiles & Ceramics Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "STJT": {
+    "name": "Shahtaj Textile Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "STL": {
+    "name": "Supernet Technologies Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "STML": {
+    "name": "Shams Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "STPL": {
+    "name": "Siddiqsons Tin Plate Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "STYLERS": {
+    "name": "Stylers International Limited",
+    "sector": "APPAREL"
+  },
+  "SUHJ": {
+    "name": "Suhail Jute Mills Limited",
+    "sector": "JUTE"
+  },
+  "SURAJ": {
+    "name": "Suraj Ghee Industries Limited",
+    "sector": "VANASPATI & ALLIED INDUSTRIES"
+  },
+  "SURC": {
+    "name": "Suraj Cotton Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "SUTM": {
+    "name": "Sunrays Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "SWL": {
+    "name": "Standard Worldwide Limited",
+    "sector": "INSURANCE"
+  },
+  "SYM": {
+    "name": "Symmetry Group Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "SYS": {
+    "name": "Systems Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "SZTM": {
+    "name": "Shahzad Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "TAJT": {
+    "name": "Taj Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "TATM": {
+    "name": "Tata Textile Mills Limited",
+    "sector": "TEXTILE SPINNING"
+  },
+  "TBL": {
+    "name": "Treet Battery Limited.",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "TCORP": {
+    "name": "Tariq Corporation Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "TELE": {
+    "name": "Telecard Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "TGL": {
+    "name": "Tariq Glass Industries Limited",
+    "sector": "GLASS & CERAMICS"
+  },
+  "THALL": {
+    "name": "Thal Limited",
+    "sector": "AUTOMOBILE PARTS & ACCESSORIES"
+  },
+  "THCCL": {
+    "name": "Thatta Cement Company Limited",
+    "sector": "CEMENT"
+  },
+  "TICL": {
+    "name": "The Thal Industries Corporation Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "TOMCL": {
+    "name": "The Organic Meat Company Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "TOWL": {
+    "name": "Towellers Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "TPL": {
+    "name": "TPL Corp Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "TPLP": {
+    "name": "TPL Properties Limited",
+    "sector": "PROPERTY"
+  },
+  "TPLRF1": {
+    "name": "TPL REIT Fund I",
+    "sector": "REAL ESTATE INVESTMENT TRUST"
+  },
+  "TPLT": {
+    "name": "TPL Trakker Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "TREET": {
+    "name": "Treet Corporation Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "TRG": {
+    "name": "TRG Pakistan Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "TRIPF": {
+    "name": "Tri-Pack Films Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "TRSM": {
+    "name": "Trust Modaraba",
+    "sector": "MODARABAS"
+  },
+  "TSML": {
+    "name": "Tandlianwala Sugar Mills Limited",
+    "sector": "SUGAR & ALLIED INDUSTRIES"
+  },
+  "TSPL": {
+    "name": "Tri-Star Power Limited",
+    "sector": "POWER GENERATION & DISTRIBUTION"
+  },
+  "UBDL": {
+    "name": "United Brands Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "UCAPM": {
+    "name": "Unicap Modaraba",
+    "sector": "MODARABAS"
+  },
+  "UDLI": {
+    "name": "UDL International Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "UDPL": {
+    "name": "United Distributors Pakistan Limited",
+    "sector": "MISCELLANEOUS"
+  },
+  "UNITY": {
+    "name": "Unity Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "UPFL": {
+    "name": "Unilever Pakistan Foods Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "USMT": {
+    "name": "Usman Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "WAFI": {
+    "name": "Wafi Energy Pakistan Limited",
+    "sector": "OIL & GAS MARKETING COMPANIES"
+  },
+  "WAHDAT": {
+    "name": "Wahdat Poultry Farm Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "WAHN": {
+    "name": "Wah Noble Chemicals Limited",
+    "sector": "CHEMICAL"
+  },
+  "WASL": {
+    "name": "Wasl Mobility Modaraba",
+    "sector": "MODARABAS"
+  },
+  "WAVES": {
+    "name": "Waves Corporation Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "WAVESAPP": {
+    "name": "Waves Home Appliances Limited",
+    "sector": "CABLE & ELECTRICAL GOODS"
+  },
+  "WTL": {
+    "name": "Worldcall Telecom Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "YOUW": {
+    "name": "Yousaf Weaving Mills Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "ZAHID": {
+    "name": "Zahidjee Textile Mills Limited",
+    "sector": "TEXTILE COMPOSITE"
+  },
+  "ZAL": {
+    "name": "Zarea Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "ZELP": {
+    "name": "Zeal Pak Cement Factory Limited",
+    "sector": "CEMENT"
+  },
+  "ZIL": {
+    "name": "ZIL Limited",
+    "sector": "FOOD & PERSONAL CARE PRODUCTS"
+  },
+  "ZTL": {
+    "name": "Zephyr Textiles Limited",
+    "sector": "TEXTILE WEAVING"
+  },
+  "ZUMA": {
+    "name": "Zuma Resources Limited",
+    "sector": "TECHNOLOGY & COMMUNICATION"
+  },
+  "META": {
+    "name": "MetaTech Trading Limited",
+    "sector": "PSX Shariah Constituent"
+  },
+  "COST": {
+    "name": "(Colony) Sarhad Textile Mills Limited",
+    "sector": "PSX Shariah Constituent"
+  },
+  "HBL": {
+    "name": "Habib Bank Limited",
+    "sector": "COMMERCIAL BANKS"
+  }
+}

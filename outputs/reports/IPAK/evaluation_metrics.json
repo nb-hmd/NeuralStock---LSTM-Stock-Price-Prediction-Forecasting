@@ -1,0 +1,20 @@
+{
+  "ticker": "IPAK",
+  "split": "test",
+  "n_samples": 47,
+  "RMSE": 6.4946,
+  "MAE": 6.3259,
+  "MAPE": 16.6952,
+  "R2": -13.5401,
+  "DA": 41.3,
+  "residual_stats": {
+    "mean": 6.325905,
+    "std": 1.470679,
+    "ci_width": 2.882532,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": 4.345055,
+    "max_residual": 10.858475,
+    "median_residual": 6.080589
+  }
+}

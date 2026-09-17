@@ -1,0 +1,20 @@
+{
+  "ticker": "PSO",
+  "split": "test",
+  "n_samples": 383,
+  "RMSE": 41.2172,
+  "MAE": 36.2288,
+  "MAPE": 8.7955,
+  "R2": 0.1935,
+  "DA": 45.03,
+  "residual_stats": {
+    "mean": 35.806718,
+    "std": 20.414189,
+    "ci_width": 40.01181,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -30.498199,
+    "max_residual": 94.327209,
+    "median_residual": 30.695923
+  }
+}

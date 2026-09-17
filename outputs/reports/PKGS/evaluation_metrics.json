@@ -1,0 +1,20 @@
+{
+  "ticker": "PKGS",
+  "split": "test",
+  "n_samples": 361,
+  "RMSE": 77.8968,
+  "MAE": 68.4328,
+  "MAPE": 9.2686,
+  "R2": 0.4029,
+  "DA": 47.22,
+  "residual_stats": {
+    "mean": 67.057005,
+    "std": 39.63929,
+    "ci_width": 77.693009,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -36.741028,
+    "max_residual": 156.791077,
+    "median_residual": 76.936035
+  }
+}

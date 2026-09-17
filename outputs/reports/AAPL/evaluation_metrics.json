@@ -1,0 +1,20 @@
+{
+  "ticker": "AAPL",
+  "split": "test",
+  "n_samples": 370,
+  "RMSE": 31.1537,
+  "MAE": 25.6107,
+  "MAPE": 9.2741,
+  "R2": 0.3558,
+  "DA": 49.32,
+  "residual_stats": {
+    "mean": 24.98116,
+    "std": 18.614423,
+    "ci_width": 36.484268,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -29.639877,
+    "max_residual": 75.999725,
+    "median_residual": 22.90419
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "PSEL",
+  "split": "test",
+  "n_samples": 384,
+  "RMSE": 132.8498,
+  "MAE": 93.9477,
+  "MAPE": 8.6106,
+  "R2": 0.255,
+  "DA": 41.25,
+  "residual_stats": {
+    "mean": 90.690688,
+    "std": 97.078608,
+    "ci_width": 190.274072,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -155.472351,
+    "max_residual": 534.396973,
+    "median_residual": 62.471313
+  }
+}

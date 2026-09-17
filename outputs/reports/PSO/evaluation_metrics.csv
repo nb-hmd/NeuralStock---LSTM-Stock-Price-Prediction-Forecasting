@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+PSO,test,383,41.2172,36.2288,8.7955,0.1935,45.03,35.806718,20.414189,40.01181,0.95,1.96,-30.498199,94.327209,30.695923

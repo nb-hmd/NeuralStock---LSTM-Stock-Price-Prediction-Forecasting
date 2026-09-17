@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+NKE,test,370,7.8244,6.1161,12.775,0.4923,49.05,-5.279307,5.774989,11.318978,0.95,1.96,-17.724815,10.596573,-4.065409

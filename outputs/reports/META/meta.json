@@ -1,0 +1,16 @@
+{
+  "raw_input": "META",
+  "canonical_symbol": "META",
+  "query_ticker": "META",
+  "storage_dir": "META",
+  "is_psx": false,
+  "is_shariah": false,
+  "exchange": "US / International",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "company_name": "META",
+  "sector": "International Equity",
+  "date_range": "2018-01-02 to 2026-09-11",
+  "latest_price": 648.03,
+  "trading_days": 2185
+}

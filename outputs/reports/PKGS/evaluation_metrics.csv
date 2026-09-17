@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+PKGS,test,361,77.8968,68.4328,9.2686,0.4029,47.22,67.057005,39.63929,77.693009,0.95,1.96,-36.741028,156.791077,76.936035

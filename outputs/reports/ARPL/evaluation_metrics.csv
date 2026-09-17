@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+ARPL,test,346,27.8872,23.161,5.3988,0.3261,52.46,14.978306,23.523261,46.105591,0.95,1.96,-53.752747,103.629761,16.361572

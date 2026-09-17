@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+IPAK,test,47,6.4946,6.3259,16.6952,-13.5401,41.3,6.325905,1.470679,2.882532,0.95,1.96,4.345055,10.858475,6.080589

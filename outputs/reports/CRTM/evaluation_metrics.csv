@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+CRTM,test,355,10.8063,7.2657,13.679,0.7984,50.56,7.116319,8.132343,15.939393,0.95,1.96,-7.081905,28.99852,2.581709

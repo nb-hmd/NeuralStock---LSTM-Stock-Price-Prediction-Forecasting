@@ -1,0 +1,16 @@
+{
+  "raw_input": "PSO",
+  "canonical_symbol": "PSO",
+  "query_ticker": "PSO.KA",
+  "storage_dir": "PSO",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "Pakistan State Oil Company Limited",
+  "sector": "OIL & GAS MARKETING COMPANIES",
+  "date_range": "2018-01-01 to 2026-09-10",
+  "latest_price": 342.31,
+  "trading_days": 2247
+}

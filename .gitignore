@@ -1,0 +1,35 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+venv/
+env/
+.venv/
+ENV/
+data/yf_cache/
+
+# IDE and Editor Directories
+.trae/
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*

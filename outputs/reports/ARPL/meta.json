@@ -1,0 +1,16 @@
+{
+  "raw_input": "ARPL",
+  "canonical_symbol": "ARPL",
+  "query_ticker": "ARPL.KA",
+  "storage_dir": "ARPL",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "Archroma Pakistan Limited",
+  "sector": "CHEMICAL",
+  "date_range": "2018-01-01 to 2026-09-11",
+  "latest_price": 405.12,
+  "trading_days": 2059
+}

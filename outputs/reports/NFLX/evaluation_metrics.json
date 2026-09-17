@@ -1,0 +1,20 @@
+{
+  "ticker": "NFLX",
+  "split": "test",
+  "n_samples": 371,
+  "RMSE": 10.0967,
+  "MAE": 8.8217,
+  "MAPE": 8.3708,
+  "R2": 0.6804,
+  "DA": 55.14,
+  "residual_stats": {
+    "mean": 8.746497,
+    "std": 5.044033,
+    "ci_width": 9.886305,
+    "confidence_level": 0.95,
+    "z_score": 1.96,
+    "min_residual": -2.103424,
+    "max_residual": 21.806786,
+    "median_residual": 8.176048
+  }
+}

@@ -1,0 +1,2 @@
+ticker,split,n_samples,RMSE,MAE,MAPE,R2,DA,residual_mean,residual_std,residual_ci_width,residual_confidence_level,residual_z_score,residual_min_residual,residual_max_residual,residual_median_residual
+NVDA,test,371,41.4148,37.4909,19.8319,-0.7793,51.62,36.998458,18.609217,36.474065,0.95,1.96,-15.427376,81.75264,36.528732

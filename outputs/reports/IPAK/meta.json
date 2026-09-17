@@ -1,0 +1,16 @@
+{
+  "raw_input": "IPAK",
+  "canonical_symbol": "IPAK",
+  "query_ticker": "IPAK.KA",
+  "storage_dir": "IPAK",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "International Packaging Films Limited",
+  "sector": "PAPER, BOARD & PACKAGING",
+  "date_range": "2024-06-03 to 2026-09-14",
+  "latest_price": 38.5,
+  "trading_days": 566
+}

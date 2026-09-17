@@ -1,0 +1,16 @@
+{
+  "raw_input": "CRTM",
+  "canonical_symbol": "CRTM",
+  "query_ticker": "CRTM.KA",
+  "storage_dir": "CRTM",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "The Crescent Textile Mills Limited",
+  "sector": "TEXTILE COMPOSITE",
+  "date_range": "2018-01-01 to 2026-09-11",
+  "latest_price": 66.62,
+  "trading_days": 2107
+}

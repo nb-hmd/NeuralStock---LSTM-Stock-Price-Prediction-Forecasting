@@ -1,0 +1,16 @@
+{
+  "raw_input": "PKGS",
+  "canonical_symbol": "PKGS",
+  "query_ticker": "PKGS.KA",
+  "storage_dir": "PKGS",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "Packages Limited",
+  "sector": "PAPER, BOARD & PACKAGING",
+  "date_range": "2018-01-01 to 2026-09-11",
+  "latest_price": 735.17,
+  "trading_days": 2134
+}

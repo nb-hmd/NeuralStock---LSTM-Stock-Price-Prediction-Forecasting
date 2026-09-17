@@ -1,0 +1,16 @@
+{
+  "raw_input": "MARI",
+  "canonical_symbol": "MARI",
+  "query_ticker": "MARI.KA",
+  "storage_dir": "MARI",
+  "is_psx": true,
+  "is_shariah": true,
+  "exchange": "Pakistan Stock Exchange (PSX)",
+  "currency": "PKR",
+  "currency_symbol": "Rs. ",
+  "company_name": "Mari Energies Limited",
+  "sector": "OIL & GAS EXPLORATION COMPANIES",
+  "date_range": "2018-01-01 to 2026-09-04",
+  "latest_price": 664.49,
+  "trading_days": 2244
+}
